@@ -35,3 +35,26 @@ body{
 .a5{
     margin-left: 50px;
 }
+
+.p1{
+    color: blue;
+}
+
+.div1{
+    font-size: xx-large;
+}
+
+.header2{
+    display: flex;
+    align-items: center;
+    margin-top: 81px;
+}
+
+.png2{
+    margin-left: 499px;
+}
+.header3{
+    display: flex;
+    align-items: center;
+    margin-top: 81px;
+}
