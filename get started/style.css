@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(184, 214, 184);
+    padding-top: 181px;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.para1{
+    display: flex;
+    align-items: center;
+    background-color: wheat;
+    margin-left: 481px;
+    margin-right: 481px;
+    padding-top: 71px;
+    padding-bottom: 61px;
+    box-shadow: 7px 7px 7px 7px gray;
+
+}
+
+.col1{
+    margin-left: 121px;
+}
+
+.col2{
+    margin-left: 51px;
+}
+
+.p1{
+    color: darkgray;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+}

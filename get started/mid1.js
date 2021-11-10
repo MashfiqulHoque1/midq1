@@ -7,16 +7,16 @@ function show(){
         document.getElementById("i1").innerHTML = "Please fill up all of your information";
     }
 
-    else if ((age > 25) && (sal>=100000)){
-        document.getElementById("i1").innerHTML = name + ". Your monthly Bonus is 20% of total Monthly Salary";
+    else if((age > 35) && (sal>=300000)){
+        document.getElementById("i1").innerHTML = name + ". Your monthly Bonus is 40% of total Monthly Salary";
     }
-    
+
     else if((age > 30) && (sal>=200000)){
         document.getElementById("i1").innerHTML = name + ". Your monthly Bonus is 30% of total Monthly Salary";
     }
 
-    else if((age > 35) && (sal>=300000)){
-        document.getElementById("i1").innerHTML = name + ". Your monthly Bonus is 40% of total Monthly Salary";
+    else if ((age > 25) && (sal>=100000)){
+        document.getElementById("i1").innerHTML = name + ". Your monthly Bonus is 20% of total Monthly Salary";
     }
 
     else {
